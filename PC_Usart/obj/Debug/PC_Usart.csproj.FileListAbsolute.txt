@@ -1,0 +1,10 @@
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\bin\Debug\PC_Usart.exe.config
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\bin\Debug\PC_Usart.exe
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\bin\Debug\PC_Usart.pdb
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\obj\Debug\PC_Usart.csprojAssemblyReference.cache
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\obj\Debug\PC_Usart.Form1.resources
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\obj\Debug\PC_Usart.Properties.Resources.resources
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\obj\Debug\PC_Usart.csproj.GenerateResource.cache
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\obj\Debug\PC_Usart.csproj.CoreCompileInputs.cache
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\obj\Debug\PC_Usart.exe
+E:\atyaat\C#\上位机\PC_Usart\PC_Usart\obj\Debug\PC_Usart.pdb
